@@ -1,4 +1,4 @@
-• Developed a Shopping Cart in coding round of React.js intern at HackerEarth.
+• Developed a Shopping Cart in coding round of React.js winter internship at HackerEarth.
 
 • It consists of items column and total order container.
 
